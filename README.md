@@ -26,7 +26,7 @@
 <a href="https://stackoverflow.com/users/coming soon.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="coming soon.." height="30" width="40" /></a>
 <a href="https://instagram.com/coming soon.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coming soon.." height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/coming soon.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coming soon.." height="30" width="40" /></a>
-<a href="https://www.leetcode.com/coming soon.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coming soon.." height="30" width="40" /></a>
+<a href="https://leetcode.com/XpolioN2005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coming soon.." height="30" width="40" /></a>
 <a href="https://discord.gg/coming soon.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="coming soon.." height="30" width="40" /></a>
 </p>
 
