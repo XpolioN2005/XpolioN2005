@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xpolion2005" alt="xpolion2005" /></a> </p>
 
-- 🔭 I’m currently working on a game called, **SynthiMyst**
+- 🔭 I’m currently working on a game called, **StarConflict**
 
-- 🌱 I’m currently learning **pygame**
+- 🌱 I’m currently learning **GODOT**
 
-- 💬 Ask me about **Python, JS**
+- 💬 Ask me about **Python, JS, GAME DEV**
 
-- 📫 How to reach me **coming soon...**
+- 📫 How to reach me **EMAIL: Xpolion2005@outlook.com**
 
 - ⚡ Fun fact **coming soon...**
 
