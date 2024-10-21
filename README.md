@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/coming soon.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="coming soon.." height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/darsan-ghosh-4a89a8333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coming soon.." height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/xpolion/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coming soon.." height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/coming soon.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="coming soon.." height="30" width="40" /></a>
 <a href="https://instagram.com/coming soon.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coming soon.." height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/coming soon.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coming soon.." height="30" width="40" /></a>
