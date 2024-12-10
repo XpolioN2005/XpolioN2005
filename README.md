@@ -4,6 +4,9 @@
 # 💫 About Me:
 🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xpolion2005&label=Profile%20views&color=0e75b6&style=flat" alt="xpolion2005" /> </p>
+
+
 
 ## 🌐 Socials:
 <a href="https://discord.gg/coming soon">
@@ -43,6 +46,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=XpolioN2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=XpolioN2005&icon=0&color=0)](https://visitcount.itsvg.in)
