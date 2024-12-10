@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/69487958/129805905-168fd73e-1d25-42fe-ac49-e757a584c338.gif" alt="banner">
 </p>
 
-<h1 align="center">Hello, I'm Darsan Ghosh 👋</h1>
+<h1 align="center">Hello, I'm XpolioN 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xpolion2005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -25,7 +25,7 @@
   <a href="https://discord.gg/coming soon"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://instagram.com/coming soon"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/xpolion/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://stackoverflow.com/users/coming soon"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="https://stackoverflow.com/users/22907913/xpolion"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
   <a href="https://twitch.tv/coming soon"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch"></a>
   <a href="https://youtube.com/@coming soon"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
   <a href="https://codepen.io/coming soon"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
