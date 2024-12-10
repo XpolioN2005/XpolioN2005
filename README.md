@@ -9,14 +9,16 @@
 </p>
 
 ## 💫 About Me:
-- 🔭 I’m currently working on **Synthimyst**, a 3D action RPG with tech vs magic combat!  
-- 👯 I’m looking to collaborate on **game development projects** and **AI innovations**.  
-- 🤝 I’m looking for help with **advanced vector calculus** and **classical mechanics**.  
-- 🌱 I’m currently learning more about **OpenCV**, **AI** concepts, and **game development**.  
-- 💬 Ask me about **Godot**, **OpenCV**, game mechanics, or **One Piece**!  
-- ⚡ Fun fact: I created **TaskArcade AI** to help those with ADHD stay focused using AI-powered gamification!  
+<ul>
+  <li>🔭 I’m currently working on <strong>Synthimyst</strong>, a 3D action RPG with tech vs magic combat!</li>
+  <li>👯 I’m looking to collaborate on <strong>game development projects</strong> and <strong>AI innovations</strong>.</li>
+  <li>🤝 I’m looking for help with <strong>advanced vector calculus</strong> and <strong>classical mechanics</strong>.</li>
+  <li>🌱 I’m currently learning more about <strong>OpenCV</strong>, <strong>AI</strong> concepts, and <strong>game development</strong>.</li>
+  <li>💬 Ask me about <strong>Godot</strong>, <strong>OpenCV</strong>, game mechanics, or <strong>One Piece</strong>!</li>
+  <li>⚡ Fun fact: I created <strong>TaskArcade AI</strong> to help those with ADHD stay focused using AI-powered gamification!</li>
+</ul>
 
----
+<hr>
 
 ## 🌐 Connect with Me:
 <p align="center">
@@ -29,43 +31,45 @@
   <a href="https://codepen.io/coming soon"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
 </p>
 
----
+<hr>
 
 ## 💻 Tech Stack:
 <p align="center">
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-  ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)  
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-  ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)  
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot Engine">
 </p>
 
----
+<hr>
 
 ## 📊 GitHub Stats:
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=XpolioN2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=XpolioN2005&theme=dark&hide_border=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XpolioN2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=XpolioN2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XpolioN2005&theme=dark&hide_border=false" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XpolioN2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
----
+<hr>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  ![](https://github-profile-trophy.vercel.app/?username=XpolioN2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app/?username=XpolioN2005&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </p>
+
+<hr>
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
 </p>
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  ![](https://github-contributor-stats.vercel.app/api?username=XpolioN2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <img src="https://github-contributor-stats.vercel.app/api?username=XpolioN2005&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </p>
