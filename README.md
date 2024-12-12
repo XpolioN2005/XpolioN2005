@@ -51,7 +51,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XpolioN2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XpolioN2005&theme=dark&hide_border=false" alt="GitHub Streak">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=XpolioN2005&theme=dark" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XpolioN2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
