@@ -12,10 +12,10 @@
 <ul>
   <li>🔭 I’m currently working on <strong>Synthimyst</strong>, a 3D action RPG with tech vs magic combat!</li>
   <li>👯 I’m looking to collaborate on <strong>game development projects</strong> and <strong>AI innovations</strong>.</li>
-  <li>🤝 I’m looking for help with <strong>advanced vector calculus</strong> and <strong>classical mechanics</strong>.</li>
+<!--   <li>🤝 I’m looking for help with <strong>advanced vector calculus</strong> and <strong>classical mechanics</strong>.</li> -->
   <li>🌱 I’m currently learning more about <strong>OpenCV</strong>, <strong>AI</strong> concepts, and <strong>game development</strong>.</li>
   <li>💬 Ask me about <strong>Godot</strong>, <strong>OpenCV</strong>, game mechanics, or <strong>One Piece</strong>!</li>
-  <li>⚡ Fun fact: I created <strong>TaskArcade AI</strong> to help those with ADHD stay focused using AI-powered gamification!</li>
+<!--   <li>⚡ Fun fact: I created <strong>TaskArcade AI</strong> to help those with ADHD stay focused using AI-powered gamification!</li> -->
 </ul>
 
 <hr>
