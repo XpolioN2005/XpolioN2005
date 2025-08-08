@@ -10,7 +10,7 @@
 
 ## 💫 About Me:
 <ul>
-  <li>👯 I’m looking to collaborate on <strong>game development projects</strong> and <strong>AI innovations</strong>.</li>\
+  <li>👯 I’m looking to collaborate on <strong>game development projects</strong> and <strong>AI innovations</strong>.</li>
   <li>🌱 I’m currently learning more about <strong>LLM RAGs</strong>, <strong>AI</strong> concepts, and <strong>game development</strong>.</li>
   <li>💬 Ask me about <strong>Godot</strong>, <strong>OpenCV</strong>, game mechanics, or <strong>One Piece</strong>!</li>
 </ul>
