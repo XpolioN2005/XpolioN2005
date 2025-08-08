@@ -10,12 +10,9 @@
 
 ## 💫 About Me:
 <ul>
-  <li>🔭 I’m currently working on <strong>Synthimyst</strong>, a 3D action RPG with tech vs magic combat!</li>
-  <li>👯 I’m looking to collaborate on <strong>game development projects</strong> and <strong>AI innovations</strong>.</li>
-<!--   <li>🤝 I’m looking for help with <strong>advanced vector calculus</strong> and <strong>classical mechanics</strong>.</li> -->
-  <li>🌱 I’m currently learning more about <strong>OpenCV</strong>, <strong>AI</strong> concepts, and <strong>game development</strong>.</li>
+  <li>👯 I’m looking to collaborate on <strong>game development projects</strong> and <strong>AI innovations</strong>.</li>\
+  <li>🌱 I’m currently learning more about <strong>LLM RAGs</strong>, <strong>AI</strong> concepts, and <strong>game development</strong>.</li>
   <li>💬 Ask me about <strong>Godot</strong>, <strong>OpenCV</strong>, game mechanics, or <strong>One Piece</strong>!</li>
-<!--   <li>⚡ Fun fact: I created <strong>TaskArcade AI</strong> to help those with ADHD stay focused using AI-powered gamification!</li> -->
 </ul>
 
 <hr>
@@ -26,8 +23,8 @@
   <a href="https://instagram.com/coming soon"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/xpolion/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://stackoverflow.com/users/22907913/xpolion"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-  <a href="https://twitch.tv/coming soon"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch"></a>
-  <a href="https://youtube.com/@coming soon"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
+<!--   <a href="https://twitch.tv/coming soon"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch"></a> -->
+<!--   <a href="https://youtube.com/@coming soon"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a> -->
   <a href="https://codepen.io/coming soon"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
 </p>
 
