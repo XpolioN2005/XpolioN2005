@@ -19,7 +19,7 @@
 
 ## 🌐 Connect with Me:
 <p align="center">
-  <a href="https://xpolion.itch.io/"><img src="https://img.shields.io/badge/Itch.io-%23FF2449?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" style="box-shadow: 0px 0px 8px #FF2449; border-radius: 5px;"></a>
+  <a href="https://xpolion.itch.io/"><img src="https://img.shields.io/badge/Itch.io-%23FF2449?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" ></a>
   <a href="https://discord.gg/coming soon"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://instagram.com/coming soon"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/xpolion/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
