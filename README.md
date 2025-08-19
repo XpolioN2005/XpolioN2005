@@ -9,12 +9,7 @@
 </p>
 
 ## 💫 About Me:
-<ul>
-  <li>👯 I’m looking to collaborate on <strong>game development projects</strong> and <strong>AI innovations</strong>.</li>
-  <li>🌱 I’m currently learning more about <strong>LLM RAGs</strong>, <strong>AI</strong> concepts, and <strong>game development</strong>.</li>
-  <li>💬 Ask me about <strong>Godot</strong>, <strong>OpenCV</strong>, game mechanics, or <strong>One Piece</strong>!</li>
-</ul>
-
+<ul> <li>🎮 Focused on developing <strong>games</strong> that combine strong mechanics with engaging player experiences.</li> <li>🤖 Exploring <strong>AI applications</strong>, including LLMs, RAG systems, and computer vision, with an emphasis on practical use in interactive systems.</li> <li>🤝 Open to collaboration on <strong>game development</strong> and <strong>AI-driven projects</strong>.</li> <li>📚 Expanding skills in <strong>AI frameworks</strong>, <strong>Godot development</strong>, and <strong>applied machine learning</strong>.</li> <li>💡 Interests include <strong>game design</strong>, <strong>computer vision</strong>, and <strong>narrative systems</strong>.</li> </ul>
 <hr>
 
 ## 🌐 Connect with Me:
