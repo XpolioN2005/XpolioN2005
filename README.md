@@ -52,15 +52,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=XpolioN2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XpolioN2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
-<p>
-  ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XpolioN2005&theme=radical)
+<p align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XpolioN2005&theme=radical" alt="GitHub Stats">
 </p>
 
 <hr>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XpolioN2005&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-trophies.vercel.app/?username=Xpolion2005&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </p>
 
 <hr>
