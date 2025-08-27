@@ -72,5 +72,5 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=XpolioN2005&limit=3&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+  <img src="https://github-contributor-stats.vercel.app/api?username=XpolioN2005&limit=4&theme=dark&combine_all_yearly_contributions=false" alt="Top Contributed Repo">
 </p>
