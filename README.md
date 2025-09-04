@@ -70,7 +70,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
 </p>
 
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=XpolioN2005&limit=4&theme=dark&combine_all_yearly_contributions=false" alt="Top Contributed Repo">
-</p>
