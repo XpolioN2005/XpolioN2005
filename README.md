@@ -1,5 +1,9 @@
-<img src="assets/top.png" alt="top-banner" width="100%">
+<p align="center">
+    <img src="assets/top.png" alt="top-banner" width="100%">
+</p>
 
 adding stuff soon...
 
-<img src="assets/bottom.png" alt="top-banner" width="100%">
+<p align="center">
+    <img src="assets/bottom.png" alt="top-banner" width="100%">
+</p>
