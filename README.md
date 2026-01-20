@@ -3,12 +3,14 @@
 </p>
 
 ## Who I Am
-**XpolioN** – B.Tech Computer Science student and game developer focused on gameplay systems and practical software development.
+**Darsan Ghosh**, Also known as **XpolioN**.
+B.Tech Computer Science student and game developer.
 
 ## What I Do
-- Gameplay and systems programming
-- Game mechanics and engine-level scripting
-- Applied computer science through real projects
+**Game development** with a strong focus on gameplay and systems programming.
+**Engine-level logic**, mechanics implementation, and tooling.
+**General software development** through practical projects.
+
 
 ## Skills
 
