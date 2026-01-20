@@ -2,17 +2,19 @@
     <img src="assets/top.png" alt="top-banner" width="100%">
 </p>
 
-## Who I Am
-**Darsan Ghosh**, Also known as **XpolioN**.
+# Who I Am
+
+**Darsan Ghosh**, Also known as **XpolioN**. <br>
 B.Tech Computer Science student and game developer.
 
-## What I Do
-**Game development** with a strong focus on gameplay and systems programming.
-**Engine-level logic**, mechanics implementation, and tooling.
-**General software development** through practical projects.
+# What I Do
+
+**Game development** with a strong focus on gameplay and systems programming. <br>
+**Engine-level logic**, mechanics implementation, and tooling.<br>
+**General software development** through practical projects.<br>
 
 
-## Skills
+# Skills
 
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&height=40)](#)
@@ -39,7 +41,7 @@ B.Tech Computer Science student and game developer.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&height=40)](#)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&height=40)](#)
 
-## Contact
+# Contact
 <p align="">
   <a href="https://github.com/XpolioN2005" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&height=40" alt="GitHub"/>
